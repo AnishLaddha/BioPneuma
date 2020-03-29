@@ -1,4 +1,7 @@
 # Biopneuma
+made by Ishan Jain and Anish Laddha
+
+
 
 Biopneuma is a mobile application that is aimed to solve a specific problem during the global coronavirus pandemic. That problem is the lack of communication among peers that are victims to the virus. In other words, when someone has the coronavirus, it is hard for them to communicate to the other peers that they had interacted with to inform them about their coronavirus. When someone tests positive, the individuals they interacted with earlier could possibly receive the transmission of the virus, hence, it is vital that there be a mobile application that is accessible to all individuals around the world. In such an application, individuals should be able to anonymously inform their previous interactors that they may possibly have the virus.
 
